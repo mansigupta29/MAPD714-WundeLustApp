@@ -25,7 +25,26 @@ class ViewController: UIViewController {
     }
 
   
+ 
+    @IBAction func onSliderChange1(_ sender: UISlider) {
+        sliderLabel1.text = "\(lroundf(sender.value))"
+    }
 
+    @IBAction func onSliderChange2(_ sender: UISlider) {
+        sliderLabel2.text = "\(lroundf(sender.value))"
+    }
 
+    
+    @IBAction func onSliderChange3(_ sender: UISlider) {
+        sliderLabel3.text = "\(lroundf(sender.value))"
+    }
+    @IBAction func onSliderChange4(_ sender: UISlider) {
+        sliderLabel4.text = "\(lroundf(sender.value))"
+    }
+    
+    @IBAction func onSliderChange5(_ sender: UISlider) {
+        sliderLabel5.text = "\(lroundf(sender.value))"
+    }
+    
 }
 
