@@ -1,9 +1,9 @@
 //
-//  ViewController.swift
-//  WunderList: To Do Tasks
+//  Name: Abhinav Sharma & Mansi Gupta
+//  WunderList: To Do Tasks App for Test
 //
-//  Created by Student on 2017-12-06.
-//  Copyright © 2017 Centennial. All rights reserved.
+//  Version: 1.3 
+//
 //
 
 import UIKit
