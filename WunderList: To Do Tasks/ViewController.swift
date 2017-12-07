@@ -1,8 +1,8 @@
 //
-//  Name: Abhinav Sharma & Mansi Gupta
-//  WunderList: To Do Tasks App for Test
+//  Author Name: Abhinav Sharma ID: 300975677 & Mansi Gupta ID: 3009698176
+//  WunderList: To Do Tasks App
 //
-//  Version: 1.3 
+//  Version: 1.3
 //
 //
 
